@@ -63,4 +63,20 @@ Converge into the strange – explore further.
 
 ![](.images/c.jpg)
 
+&nbsp;
 
+---
+
+&nbsp;
+
+## Preview Locally
+
+With Node (no install):
+```bash
+npx docsify-cli serve .
+```
+
+With Python:
+```bash
+pip install grip && grip
+```
