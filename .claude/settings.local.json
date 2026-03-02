@@ -15,7 +15,10 @@
       "Bash(wc:*)",
       "Bash(claude:*)",
       "Bash(env:*)",
-      "Bash(ollama list:*)"
+      "Bash(ollama list:*)",
+      "WebFetch(domain:www.linkedin.com)",
+      "WebSearch",
+      "WebFetch(domain:github.com)"
     ]
   },
   "mcpServers": {
