@@ -10,6 +10,8 @@ The dialogue is the work. Something enters the field and it evolves, accelerated
 
 &nbsp;
 
+![](.images/a.jpg)
+
 ---
 
 &nbsp;
@@ -21,6 +23,8 @@ What has emerged so far is a theory — called here *the strange* — about how 
 One practical result of following this might be AGI. A distributed ecology of small models, learning from each other, building culture from the bottom up. No monolith. No cathedral. A garden, and organism like nature.
 
 That result is attemtped to be held lightly, leaving room for growth.
+
+![](.images/b.jpg)
 
 ---
 
@@ -56,5 +60,7 @@ InsideOut writings on consciousness, healing, neuroplasticity, shadow work, trau
 **Next**
 
 Converge into the strange – explore further.
+
+![](.images/c.jpg)
 
 
