@@ -1,0 +1,32 @@
+{
+  "permissions": {
+    "allow": [
+      "WebFetch(domain:chatgpt.com)",
+      "Bash(python3 -c \":*)",
+      "Bash(python3:*)",
+      "Bash(pbpaste)",
+      "mcp__mcp-registry__search_mcp_registry",
+      "Bash(pip3 list:*)",
+      "Bash(python3.13:*)",
+      "Bash(uv:*)",
+      "Bash(.venv/bin/python:*)",
+      "Bash(cat:*)",
+      "Bash(~/.local/bin/uv run:*)",
+      "Bash(wc:*)",
+      "Bash(claude:*)",
+      "Bash(env:*)",
+      "Bash(ollama list:*)"
+    ]
+  },
+  "mcpServers": {
+    "dialog-processor": {
+      "command": "/Users/jcwejman/git/agi/dialog-processor/.venv/bin/python",
+      "args": [
+        "/Users/jcwejman/git/agi/dialog-processor/server.py"
+      ],
+      "env": {
+        "ANTHROPIC_API_KEY": "${ANTHROPIC_API_KEY}"
+      }
+    }
+  }
+}
